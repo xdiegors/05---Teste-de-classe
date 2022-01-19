@@ -1,0 +1,16 @@
+C:\dev\dio\05 - Abstracao\bin\Debug\net5.0\05 - Abstracao.exe
+C:\dev\dio\05 - Abstracao\bin\Debug\net5.0\05 - Abstracao.deps.json
+C:\dev\dio\05 - Abstracao\bin\Debug\net5.0\05 - Abstracao.runtimeconfig.json
+C:\dev\dio\05 - Abstracao\bin\Debug\net5.0\05 - Abstracao.runtimeconfig.dev.json
+C:\dev\dio\05 - Abstracao\bin\Debug\net5.0\05 - Abstracao.dll
+C:\dev\dio\05 - Abstracao\bin\Debug\net5.0\ref\05 - Abstracao.dll
+C:\dev\dio\05 - Abstracao\bin\Debug\net5.0\05 - Abstracao.pdb
+C:\dev\dio\05 - Abstracao\obj\Debug\net5.0\05 - Abstracao.csproj.AssemblyReference.cache
+C:\dev\dio\05 - Abstracao\obj\Debug\net5.0\05 - Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dio\05 - Abstracao\obj\Debug\net5.0\05 - Abstracao.AssemblyInfoInputs.cache
+C:\dev\dio\05 - Abstracao\obj\Debug\net5.0\05 - Abstracao.AssemblyInfo.cs
+C:\dev\dio\05 - Abstracao\obj\Debug\net5.0\05 - Abstracao.csproj.CoreCompileInputs.cache
+C:\dev\dio\05 - Abstracao\obj\Debug\net5.0\05 - Abstracao.dll
+C:\dev\dio\05 - Abstracao\obj\Debug\net5.0\ref\05 - Abstracao.dll
+C:\dev\dio\05 - Abstracao\obj\Debug\net5.0\05 - Abstracao.pdb
+C:\dev\dio\05 - Abstracao\obj\Debug\net5.0\05 - Abstracao.genruntimeconfig.cache
